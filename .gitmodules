@@ -1,0 +1,6 @@
+[submodule "reports"]
+	path = reports
+	url = https://github.com/pitfail/pitfail-reports
+[submodule "code"]
+	path = code
+	url = https://github.com/pitfail/pitfail-demo
