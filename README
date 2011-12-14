@@ -1,0 +1,4 @@
+
+code/        -- All code for this project.
+reports-src/ -- The source reStructuredText, figures, and others used for generation of the reports.
+reports/     -- Build reports as PDF files.
